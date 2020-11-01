@@ -50,3 +50,6 @@ Merk deg! Her skal du ikke erstatte alle bokstavene _a_, men kun der hvor _a_ fo
 skal teksten _**I have a computer**_ bli om til teksten _**I have BANANA computer**_.
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/replaceAll 
+
+### Oppgave 3
+Lag to for-løkker. Den ene skal skrive ut tallene fra og med 1 til og med 10. Den neste skal skrive ut alle tallene fra og med 10 til og med 1.
