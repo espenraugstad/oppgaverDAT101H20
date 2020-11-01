@@ -53,3 +53,9 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 
 ### Oppgave 3
 Lag to for-løkker. Den ene skal skrive ut tallene fra og med 1 til og med 10. Den neste skal skrive ut alle tallene fra og med 10 til og med 1.
+
+### Oppgave 4
+Lag en variabel som heter `myDateOfBirth` som består av 4 siffer. De to første siffrene er dagen du har bursdag, de to neste er måneden og de to siste er året.
+Hvis du f.eks. er født 24. mars 2001 så får din variabel verdien 240301.
+
+Bruk så en for-løkke til å finne summen av alle tallene fra og med 1 til og med `myDateOfBirth`.
