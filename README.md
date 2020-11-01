@@ -59,3 +59,13 @@ Lag en variabel som heter `myDateOfBirth` og består av 4 siffer. De to første 
 Hvis du f.eks. er født 24. mars 2001 så får din variabel verdien 240301.
 
 Bruk så en for-løkke til å finne summen av alle tallene fra og med 1 til og med `myDateOfBirth`.
+
+### Oppgave 5
+Lag en funksjon som tar to parametere: `min` og `max`. Funksjonen skal så returnere et tilfeldig tall mellom disse to verdiene,
+og den skal også kunne inkludere både `min` og `max`.
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random
+
+Lag så to variabler og gi hver av disse et tilfeldig tall mellom 1 og 6 fra funksjonen du lagde. Hvis disse to tallene er like
+skal du skrive ut teksten i konsollen: `Du fikk to like og kan gå videre på neste kast.` Hvis tallene ikke er like skal 
+teksten `Du fikk ikke to like og må stå over neste kast.` skrives i konsollen.
