@@ -1,4 +1,4 @@
-# Workshop DAT101 2. nov 2020
+# Workshop DAT101 2. nov 2020 - No so fancy
 
 Hver oppgave har en tilhørende html-fil. Last ned filen som hører til hver enkelt oppgave og skriv inn koden i denne.
 
