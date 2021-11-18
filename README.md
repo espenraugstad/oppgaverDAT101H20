@@ -5,7 +5,7 @@ Hver oppgave har en tilhørende html-fil. Last ned filen som hører til hver enk
 I disse oppgavene bruker vi kun `console.log()` for å skrive ut resultater til konsollen.
 
 ### Oppgave 0
-Installer en fancy extension i VS Code
+Installer en fancy extension i VS Cod som heter GitHub Pull Requests and Issues :)
 
 ### Oppgave 1
 Opprett tre variabler:
